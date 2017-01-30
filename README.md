@@ -4,4 +4,4 @@ PyTamper merupakan aplikasi python yang ditujukan untuk tampering http dan param
 
 Dependency: library urllib2 dari python
 
-Cara eksekusi: ./pyTamper.py -u <url> [-m <http-method>]
+Cara eksekusi: ./pyTamper.py -u url [-m http-method ]
